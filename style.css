@@ -1,3 +1,7 @@
-body {
-    font-family: 'Roboto', sans-serif;
+h2 {
+    font-size: 40px;
+}
+
+.course-description {
+    width: 400px;
 }
